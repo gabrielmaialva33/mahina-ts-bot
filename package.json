@@ -81,6 +81,7 @@
     "grammy": "^1.11.2",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.21",
-    "telegram": "^2.12.8"
+    "telegram": "^2.12.8",
+    "tgcalls-next": "^0.0.0-rc.18"
   }
 }
