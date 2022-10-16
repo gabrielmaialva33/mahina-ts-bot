@@ -1,5 +1,7 @@
-const world = 'world'
+import BotCore from 'src/bot/core/bot.core'
+import UserBot from 'src/bot/core/user.bot'
 
-export function hello(who: string = world): string {
-  return `Hello ${who}! `
-}
+const bot = new BotCore()
+const userBot = new UserBot()
+
+Promise.all([bot.start(), userBot.start()])
