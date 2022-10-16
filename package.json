@@ -1,5 +1,5 @@
 {
-  "name": "node-ts-app-template",
+  "name": "mahina-ts-bot",
   "version": "1.0.1",
   "description": "A complete Node.js project template using TypeScript and following general best practices.",
   "keywords": [
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabrielmaialva33/node-ts-app-template.git"
+    "url": "https://github.com/gabrielmaialva33/mahina-ts-bot.git"
   },
   "private": true,
   "license": "MIT",
